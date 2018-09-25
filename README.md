@@ -1,5 +1,2 @@
-What the project does:
-Answering proposed questions by running SQL Queries
-
-Who maintains and contributes to the project:
-Springboard Data Science Bootcamp
+Mini projects from Spring Board.
+Questions are listed within the documents.
